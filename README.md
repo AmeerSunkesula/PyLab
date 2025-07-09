@@ -55,4 +55,4 @@ Affiliated to State Board of Technical Education and Training, Andhra Pradesh
 
 ---
 
-> 💡 _This repository is maintained for academic and practical reference purposes. It is not a project repository, but a resource for future learning and sharing among Polytechnic C-23 curriculum
+> 💡 _This repository is maintained for academic and practical reference purposes. It is not a project repository, but a resource for future learning and sharing among Polytechnic C-23 curriculum students._
