@@ -34,19 +34,7 @@ This repository contains lab experiments for the CM-507 Python Programming cours
 
 ## 🛠 Folder Structure
 
-```
-PyLab/
-│
-├── Exp-1/
-│   └── helloworld.py
-│
-├── Exp-2/
-│   ├── numStringFunc.py
-│   └── lisTupDictFunc.py
-│
-├── README.md
-└── ...
-```
+> 📂 This repository is continuously updated. Refer to the latest files and folders for current content.
 
 ---
 
@@ -67,4 +55,4 @@ Affiliated to State Board of Technical Education and Training, Andhra Pradesh
 
 ---
 
-> 💡 _This repository is maintained for academic and practical
+> 💡 _This repository is maintained for academic and practical reference purposes. It is not a project repository, but a resource for future learning and sharing among Polytechnic C-23 curriculum
