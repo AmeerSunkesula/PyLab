@@ -50,7 +50,7 @@ This repository contains lab experiments for the CM-507 Python Programming cours
 
 **Ameer S.**  
 5th Semester, Diploma in Computer Engineering  
-<img src="https://img.icons8.com/ios-filled/18/school-building.png" width="16"/> Dr. Y.C. James Yen Government Polytechnic, Kuppam (C23 Curriculum)  
+Dr. Y.C. James Yen Government Polytechnic, Kuppam (C23 Curriculum)  
 Affiliated to State Board of Technical Education and Training, Andhra Pradesh
 
 ---
