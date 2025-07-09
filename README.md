@@ -56,4 +56,5 @@ Affiliated to State Board of Technical Education and Training, Andhra Pradesh
 ---
 
 > <img src="https://img.icons8.com/fluency/24/info.png" width="18"/> _This repository is maintained for academic and practical reference purposes. It is not a project repository, but a resource for future learning and sharing among Polytechnic C-23 curriculum students._
-# > <img src="https://img.icons8.com/fluency/24/box-important.png" width="18"/> **Always check the latest folders and files for updated content!**
+
+> <img src="https://img.icons8.com/fluency/24/box-important.png" width="18"/> **Always check the latest folders and files for updated content!**
