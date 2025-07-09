@@ -1,10 +1,10 @@
-# 🐍 CM-507: Python Programming Lab
+# <img src="https://img.icons8.com/color/48/000000/python.png" width="32"/> CM-507: Python Programming Lab
 
 This repository contains lab experiments for the CM-507 Python Programming course. Each folder includes programs, outputs, and related theory notes.
 
 ---
 
-## 📘 Course Overview
+## <img src="https://img.icons8.com/fluency/24/book.png" width="20"/> Course Overview
 
 **Course Code:** CM-507  
 **Course Title:** Python Programming Lab  
@@ -13,7 +13,7 @@ This repository contains lab experiments for the CM-507 Python Programming cours
 
 ---
 
-## 📚 Experiments List
+## <img src="https://img.icons8.com/ios-filled/24/open-book--v2.png" width="20"/> Experiments List
 
 | S.No | Experiment Title                                                                 |
 |------|----------------------------------------------------------------------------------|
@@ -32,27 +32,27 @@ This repository contains lab experiments for the CM-507 Python Programming cours
 
 ---
 
-## 🛠 Folder Structure
+## <img src="https://img.icons8.com/ios-filled/24/folder-invoices--v1.png" width="20"/> Repository Updates
 
-> 📂 This repository is continuously updated. Refer to the latest files and folders for current content.
-
----
-
-## 🔧 Tools Used
-
-- **Python 3.x**
-- **VS Code / IDLE**
-- **Git & GitHub**
+> <img src="https://img.icons8.com/fluency/24/refresh.png" width="18"/> This repository is continuously updated. Refer to the latest files and folders for current content.
 
 ---
 
-## 👨‍🎓 Maintained by
+## <img src="https://img.icons8.com/ios-filled/24/settings--v1.png" width="20"/> Tools Used
+
+- <img src="https://img.icons8.com/color/24/python--v1.png" width="18"/> **Python 3.x**
+- <img src="https://img.icons8.com/color/24/visual-studio-code-2019.png" width="18"/> **VS Code / IDLE**
+- <img src="https://img.icons8.com/ios-filled/24/github.png" width="18"/> **Git & GitHub**
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/24/student-male--v1.png" width="20"/> Maintained by
 
 **Ameer S.**  
 5th Semester, Diploma in Computer Engineering  
-Dr. Y.C. James Yen Government Polytechnic, Kuppam (C23 Curriculum)  
+<img src="https://img.icons8.com/ios-filled/18/school-building.png" width="16"/> Dr. Y.C. James Yen Government Polytechnic, Kuppam (C23 Curriculum)  
 Affiliated to State Board of Technical Education and Training, Andhra Pradesh
 
 ---
 
-> 💡 _This repository is maintained for academic and practical reference purposes. It is not a project repository, but a resource for future learning and sharing among Polytechnic C-23 curriculum students._
+> <img src="https://img.icons8.com/fluency/24/info.png" width="18"/> _This repository is maintained for academic and practical reference purposes. It is not a project repository, but a resource for future learning and sharing among Polytechnic C-23 curriculum students._
