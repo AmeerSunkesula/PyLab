@@ -62,8 +62,9 @@ PyLab/
 
 **Ameer S.**  
 5th Semester, Diploma in Computer Engineering  
-Government Polytechnic, Kuppam
+Dr. Y.C. James Yen Government Polytechnic, Kuppam (C23 Curriculum)  
+Affiliated to State Board of Technical Education and Training, Andhra Pradesh
 
 ---
 
-> 💡 _This repository is maintained for academic and practical lab reference._
+> 💡 _This repository is maintained for academic and practical
