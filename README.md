@@ -8,7 +8,7 @@ This repository provides lab experiments for the CM-507 Python Programming Lab. 
 
 **Course Code:** CM-507  
 **Course Title:** Python Programming Lab  
-**Program:** Diploma in Computer Engineering (DCME)  
+**Program:** Diploma in Computer Engineering  
 **Semester:** 5th
 
 ---
