@@ -66,4 +66,4 @@ Government Polytechnic, Kuppam
 
 ---
 
-> 💡 _This repository is maintained for academic and practical
+> 💡 _This repository is maintained for academic and practical lab reference._
