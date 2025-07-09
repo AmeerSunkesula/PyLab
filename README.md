@@ -1,6 +1,6 @@
 # <img src="https://img.icons8.com/color/48/000000/python.png" width="32"/> CM-507: Python Programming Lab
 
-This repository contains lab experiments for the CM-507 Python Programming course. Each folder includes programs, outputs, and related theory notes.
+This repository contains lab experiments for the CM-507 Python Programming course. Each folder includes programs for the ordered experiment.
 
 ---
 
