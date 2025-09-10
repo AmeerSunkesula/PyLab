@@ -15,20 +15,23 @@ This repository provides lab experiments for the CM-507 Python Programming Lab. 
 
 ## <img src="https://img.icons8.com/ios-filled/24/open-book--v2.png" width="20"/> Experiments List
 
-| S.No | Experiment Title                                                                 |
-|------|----------------------------------------------------------------------------------|
-| 1    | Write and Execute a Simple Python Program (Hello World)                          |
-| 2    | Write and Execute Programs Using Different Data Types                            |
-| 3    | Programs Using Operators (Arithmetic, Logical, Relational, Assignment)           |
-| 4    | Programs Using Conditional Statements (if, if-else, nested if)                   |
-| 5    | Programs Using Looping Statements (for, while, nested loops)                     |
-| 6    | Programs Using Functions (Built-in, User-defined)                                |
-| 7    | Programs Using Recursion                                                         |
-| 8    | Programs Using List and Tuple Manipulations                                      |
-| 9    | Programs Using Dictionary and Set                                                |
-| 10   | Programs Demonstrating File Handling Operations                                  |
-| 11   | Programs for Exception Handling                                                  |
-| 12   | Programs Using Classes and Objects (OOP Concepts)                                |
+| S.No  | Experiment Title                                                                                          |
+|-------|-----------------------------------------------------------------------------------------------------------|
+| 1     | Write and Execute a Simple Python Program (Hello World)                                                   |
+| 2     | Write and Execute Programs Using Different Data Types                                                     |
+| 3     | Programs Using Operators (Arithmetic, Logical, Relational, Assignment)                                    |
+| 4     | Programs for conversions                                                                                  |
+| 5     | Programs for calculation of perimeter, area and volume                                                    |
+| 6     | Programs Using Conditional Statements                                                                     |
+| 7     | Programs Using Loops                                                                                      |
+| 8     | Programs Using Functions (Built-in, User-defined)                                                         |
+| 9     | Programs using recursion                                                                                  |
+| 10    | Program to find the factors of a number Using recursion                                                   |
+| 11    | Program to Manage a list with add, delete and display operations                                          |
+| 12    | Program to manage operations on a list: sort, reverse, and count elements                                 |
+| 13    | Program to Manage operations on a dictionary: create, add, delete, and display elements in dictionary     |
+| 14    | Program to calculate mean, median, average and standard deviation of numbers in a list.                   |
+| 15-19 | -------- Yet To Be Added soon --------                                                                    |
 
 ---
 
